@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌟 Hi there, I'm Suhyuk Lee 👋  
 
-<!--
-**isuh88/isuh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 📫 연락처: **[isuh88@gmail.com]**  
+
+---
+
+## 🛠 Tech Stack  
+- **Languages:** `Python`, `Java`, `Go`
+- **Frameworks & Libraries:** `Dropwizard`, `Django`, `Gin`
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isuh88&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isuh88&layout=compact&theme=tokyonight)  
+
+---
+
+⭐️ From **[isuh88](https://github.com/isuh88)**
